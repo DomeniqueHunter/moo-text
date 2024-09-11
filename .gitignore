@@ -1,3 +1,6 @@
 .project
 .pydevproject
 venv
+__pycache__
+widgets.qss
+
